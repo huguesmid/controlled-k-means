@@ -25,3 +25,8 @@ To run the algorithm, the example file shows an exemple.
 | `alpha_interval` | tuple(float, float) | (1.0, 1.9) | Interval for random α values |
 | `alpha_random_seed` | int or None | None | Seed for alpha randomness |
 
+
+
+# Preprint
+
+A preprint of the paper is available at https://www.gerad.ca/fr/papers/G-2026-18.pdf
